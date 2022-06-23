@@ -1,0 +1,4 @@
+repository "One Minute Horror game@Another_Gamedev_Creation@cloud"
+  path "/"
+    br "/main"
+    co "/main"
