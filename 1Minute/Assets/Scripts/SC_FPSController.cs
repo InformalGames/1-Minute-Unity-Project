@@ -8,6 +8,7 @@ using TMPro;
 public class SC_FPSController : MonoBehaviour
 {
     public GameObject PlayerBody;
+    public GameObject GameControlOBJ;
     public Vector3 reset;
     public Vector3 crouch;
     public int numberofcards = 0;
@@ -25,13 +26,15 @@ public class SC_FPSController : MonoBehaviour
 
     [HideInInspector]
     public bool canMove = true;
-
+    public bool IsGamePaused = false;
     void Start()
     {
         crouch = new Vector3(1f, 0.4f, 1f);
         reset = new Vector3(1f, 1f, 1f);
         characterController = GetComponent<CharacterController>();
 
+        //Get setting for game
+        GameControlOBJ = GameObject.Find("GameController");
         // Lock cursor
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
@@ -39,14 +42,26 @@ public class SC_FPSController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.LeftControl))
+        if (IsGamePaused == true) //paused game
+        {
+            canMove = false; //stop movement
+        }
+        else
+        {
+            //game not paused
+            canMove = true;
+            // Move the controller
+            characterController.Move(moveDirection * Time.deltaTime);
+        }
+        IsGamePaused = GameControlOBJ.GetComponent<GameSetting>().PauseGame; //check if game is paused
+        if (Input.GetKeyDown(KeyCode.LeftControl) && IsGamePaused == false)
         {
             walkingSpeed = 1f;
             runningSpeed = 1f;
             PlayerBody.transform.localScale = crouch;
 
         }
-        if (Input.GetKeyUp(KeyCode.LeftControl))
+        if (Input.GetKeyUp(KeyCode.LeftControl) && IsGamePaused == false)
         {
             walkingSpeed = 2f;
             runningSpeed = 4f;
@@ -76,13 +91,10 @@ public class SC_FPSController : MonoBehaviour
         // Apply gravity. Gravity is multiplied by deltaTime twice (once here, and once below
         // when the moveDirection is multiplied by deltaTime). This is because gravity should be applied
         // as an acceleration (ms^-2)
-        if (!characterController.isGrounded)
+        if (!characterController.isGrounded && IsGamePaused == false)
         {
             moveDirection.y -= gravity * Time.deltaTime;
         }
-
-        // Move the controller
-        characterController.Move(moveDirection * Time.deltaTime);
 
         // Player and Camera rotation
         if (canMove)
