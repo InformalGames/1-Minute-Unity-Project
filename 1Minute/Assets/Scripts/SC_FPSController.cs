@@ -23,9 +23,11 @@ public class SC_FPSController : MonoBehaviour
     CharacterController characterController;
     Vector3 moveDirection = Vector3.zero;
     float rotationX = 0;
+    public bool isRunning;
 
     [HideInInspector]
     public bool canMove = true;
+    public bool CanSprint = true;
     public bool IsGamePaused = false;
     void Start()
     {
@@ -72,7 +74,7 @@ public class SC_FPSController : MonoBehaviour
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         Vector3 right = transform.TransformDirection(Vector3.right);
         // Press Left Shift to run
-        bool isRunning = Input.GetKey(KeyCode.LeftShift);
+        PlayerSprintControl(Input.GetKey(KeyCode.LeftShift)); //check if player is trying to run, and the requirements are met for the player to be able to run
         float curSpeedX = canMove ? (isRunning ? runningSpeed : walkingSpeed) * Input.GetAxis("Vertical") : 0;
         float curSpeedY = canMove ? (isRunning ? runningSpeed : walkingSpeed) * Input.GetAxis("Horizontal") : 0;
         float movementDirectionY = moveDirection.y;
@@ -103,6 +105,53 @@ public class SC_FPSController : MonoBehaviour
             rotationX = Mathf.Clamp(rotationX, -lookXLimit, lookXLimit);
             playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+        }
+    }
+
+    void PlayerSprintControl(bool RunKeyPressed)
+    {
+        //stamina bar is filled
+        if (GetComponent<StaminaControl>().CurrentStam > GetComponent<StaminaControl>().StamMin)
+        {
+            if (RunKeyPressed == true) //player is pressing run button
+            {
+                //game isnt paused
+                if (GameControlOBJ.GetComponent<GameSetting>().PauseGame == false)
+                {
+                    isRunning = true;
+                    GetComponent<StaminaControl>().CurrentStam -= 35.466f * Time.deltaTime; //decrease stamina
+                }
+            }
+            else //player isnt pressing sprint button
+            {
+                isRunning = false;
+                //game isnt paused
+                if (GameControlOBJ.GetComponent<GameSetting>().PauseGame == false)
+                {
+                    GetComponent<StaminaControl>().CurrentStam += 12.222f * Time.deltaTime; //increase stamina
+                }
+            }
+        }
+        else
+        {
+            if (RunKeyPressed == false)
+            {
+                //game isnt paused
+                if (GameControlOBJ.GetComponent<GameSetting>().PauseGame == false)
+                {
+                    GetComponent<StaminaControl>().CurrentStam += 12.222f * Time.deltaTime; //increase stamina
+                }
+            }
+            //stamina ran out
+            if (isRunning == true)
+            {
+                isRunning = false;
+            }
+        }
+        //if player stopped running
+        if (Input.GetKeyUp(KeyCode.LeftControl) && isRunning == true)
+        {
+            isRunning = false;
         }
     }
 }
