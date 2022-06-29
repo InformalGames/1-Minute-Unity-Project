@@ -31,7 +31,6 @@ public class TimerControl : MonoBehaviour
     {
         DeathTimer = 60;
         CurrentTime = 0;
-        TimerActivated = false;
         CurrentRateOfTime = 0;
         RateOfTime = 1.2f;
         TimerDisplayOBJ = transform.Find("Canvas").transform.Find("TimerTxt").gameObject;
