@@ -224,10 +224,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 20
 =======
   m_RootOrder: 23
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 21
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &40919614
 GameObject:
@@ -409,10 +413,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 24
 =======
   m_RootOrder: 27
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 25
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &73384419
 GameObject:
@@ -707,10 +715,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 35
 =======
   m_RootOrder: 38
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 36
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &103606559
 GameObject:
@@ -907,10 +919,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 112
 =======
   m_RootOrder: 115
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 113
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &124751894
 GameObject:
@@ -1205,10 +1221,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 40
 =======
   m_RootOrder: 43
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 41
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &148220551
 GameObject:
@@ -1307,10 +1327,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 31
 =======
   m_RootOrder: 34
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 32
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &162083245
 GameObject:
@@ -1605,10 +1629,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 18
 =======
   m_RootOrder: 21
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 19
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &204406889
 GameObject:
@@ -2034,10 +2062,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 73
 =======
   m_RootOrder: 76
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 74
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &263336629
 GameObject:
@@ -2136,10 +2168,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 129
 =======
   m_RootOrder: 132
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 130
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &263530694
 GameObject:
@@ -2238,10 +2274,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 54
 =======
   m_RootOrder: 57
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 55
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &301439004
 GameObject:
@@ -2340,10 +2380,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 80
 =======
   m_RootOrder: 83
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 81
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &301769610
 GameObject:
@@ -2638,10 +2682,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 25
 =======
   m_RootOrder: 28
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 26
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &309567873
 GameObject:
@@ -2838,10 +2886,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 131
 =======
   m_RootOrder: 134
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 132
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &353423828
 GameObject:
@@ -2940,10 +2992,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 82
 =======
   m_RootOrder: 85
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 83
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &358350687
 GameObject:
@@ -3040,10 +3096,14 @@ RectTransform:
   - {fileID: 1913961366}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 133
 =======
   m_RootOrder: 136
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 134
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3245,10 +3305,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 69
 =======
   m_RootOrder: 72
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 70
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &374253268
 GameObject:
@@ -3347,10 +3411,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 12
 =======
   m_RootOrder: 15
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 13
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &387609016
 GameObject:
@@ -3449,10 +3517,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 68
 =======
   m_RootOrder: 71
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 69
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &394012623
 GameObject:
@@ -3551,10 +3623,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 23
 =======
   m_RootOrder: 26
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 24
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &401973842
 GameObject:
@@ -3653,10 +3729,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 74
 =======
   m_RootOrder: 77
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 75
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &408290385
 GameObject:
@@ -3755,10 +3835,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 34
 =======
   m_RootOrder: 37
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 35
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &411207656
 GameObject:
@@ -3955,10 +4039,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 115
 =======
   m_RootOrder: 118
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 116
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &432001170
 GameObject:
@@ -4253,10 +4341,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 122
 =======
   m_RootOrder: 125
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 123
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &442184755
 GameObject:
@@ -4355,10 +4447,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 71
 =======
   m_RootOrder: 74
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 72
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &448515308
 GameObject:
@@ -4555,10 +4651,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 42
 =======
   m_RootOrder: 45
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 43
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &456329263
 GameObject:
@@ -4755,10 +4855,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 58
 =======
   m_RootOrder: 61
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 59
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &476626918
 PrefabInstance:
@@ -4770,10 +4874,14 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1636b4a8d40dcb14d8b24746ae53e897, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 5
 =======
       value: 7
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+      value: 6
+>>>>>>> parent of 5b8d73a (setting up blade traps)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1636b4a8d40dcb14d8b24746ae53e897, type: 3}
       propertyPath: m_LocalScale.x
@@ -5074,10 +5182,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 28
 =======
   m_RootOrder: 31
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 29
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &499423124
 GameObject:
@@ -5176,10 +5288,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 15
 =======
   m_RootOrder: 18
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 16
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &525606205
 GameObject:
@@ -5376,10 +5492,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 43
 =======
   m_RootOrder: 46
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 44
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &537326104
 GameObject:
@@ -5478,10 +5598,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 70
 =======
   m_RootOrder: 73
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 71
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &537482048
 GameObject:
@@ -5580,10 +5704,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 30
 =======
   m_RootOrder: 33
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 31
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &550823439
 GameObject:
@@ -5780,10 +5908,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 113
 =======
   m_RootOrder: 116
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 114
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &572732336
 GameObject:
@@ -5893,10 +6025,14 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 35c0f3f511c266144b6b15e2c55e9cb7, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 4
 =======
       value: 6
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+      value: 5
+>>>>>>> parent of 5b8d73a (setting up blade traps)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 35c0f3f511c266144b6b15e2c55e9cb7, type: 3}
       propertyPath: m_LocalScale.x
@@ -6061,10 +6197,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 106
 =======
   m_RootOrder: 109
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 107
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &593819192
 GameObject:
@@ -6162,10 +6302,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 88
 =======
   m_RootOrder: 91
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 89
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &594246750
 GameObject:
@@ -6264,10 +6408,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 87
 =======
   m_RootOrder: 90
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 88
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &605917416
 GameObject:
@@ -6366,10 +6514,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 86
 =======
   m_RootOrder: 89
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 87
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &613231373
 GameObject:
@@ -6467,10 +6619,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 104
 =======
   m_RootOrder: 107
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 105
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &624132400
 GameObject:
@@ -6569,10 +6725,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 84
 =======
   m_RootOrder: 87
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 85
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &641122425
 GameObject:
@@ -6867,10 +7027,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 8
 =======
   m_RootOrder: 11
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 9
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &663445479
 GameObject:
@@ -6969,10 +7133,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 22
 =======
   m_RootOrder: 25
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 23
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &687121971
 GameObject:
@@ -7071,10 +7239,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 81
 =======
   m_RootOrder: 84
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 82
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &688695165
 GameObject:
@@ -7173,10 +7345,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 57
 =======
   m_RootOrder: 60
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 58
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -7369,10 +7545,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 110
 =======
   m_RootOrder: 113
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 111
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &732154612
 GameObject:
@@ -7471,10 +7651,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 61
 =======
   m_RootOrder: 64
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 62
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &748531137
 GameObject:
@@ -7573,10 +7757,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 117
 =======
   m_RootOrder: 120
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 118
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &752154281
 GameObject:
@@ -7675,10 +7863,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 107
 =======
   m_RootOrder: 110
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 108
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &765819571
 GameObject:
@@ -7888,10 +8080,14 @@ Transform:
   - {fileID: 1568237669}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 100
 =======
   m_RootOrder: 103
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 101
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!1 &773207117
 GameObject:
@@ -8243,10 +8439,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 111
 =======
   m_RootOrder: 114
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 112
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &797961150
 GameObject:
@@ -8345,68 +8545,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 11
 =======
   m_RootOrder: 14
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 12
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &807027244
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 18.51
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.46592402
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.34
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4492291188598970636, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_Name
-      value: BladeTrapSmall (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
 --- !u!1 &810392603
 GameObject:
   m_ObjectHideFlags: 0
@@ -8504,10 +8651,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 63
 =======
   m_RootOrder: 66
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 64
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &831817710
 GameObject:
@@ -8651,10 +8802,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
 =======
   m_RootOrder: 5
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &837147943
 GameObject:
@@ -8949,10 +9104,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 41
 =======
   m_RootOrder: 44
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 42
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &844198098
 GameObject:
@@ -9149,10 +9308,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 56
 =======
   m_RootOrder: 59
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 57
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &898704388
 GameObject:
@@ -9447,10 +9610,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 121
 =======
   m_RootOrder: 124
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 122
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &931492544
 GameObject:
@@ -9646,10 +9813,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 91
 =======
   m_RootOrder: 94
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 92
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &935584105
 GameObject:
@@ -9748,10 +9919,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 45
 =======
   m_RootOrder: 48
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 46
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &962505305
 GameObject:
@@ -9850,10 +10025,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 65
 =======
   m_RootOrder: 68
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 66
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &970308179
 GameObject:
@@ -9952,10 +10131,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 27
 =======
   m_RootOrder: 30
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 28
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &979684024
 GameObject:
@@ -10054,10 +10237,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 60
 =======
   m_RootOrder: 63
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 61
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &993197084
 GameObject:
@@ -10125,10 +10312,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 134
 =======
   m_RootOrder: 137
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 135
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &997362680
 GameObject:
@@ -10227,10 +10418,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 36
 =======
   m_RootOrder: 39
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 37
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &997509817
 GameObject:
@@ -10329,10 +10524,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 38
 =======
   m_RootOrder: 41
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 39
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1035001284
 GameObject:
@@ -10529,10 +10728,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 132
 =======
   m_RootOrder: 135
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 133
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1050707371
 GameObject:
@@ -10631,10 +10834,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 44
 =======
   m_RootOrder: 47
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 45
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1054073214
 GameObject:
@@ -10733,10 +10940,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 47
 =======
   m_RootOrder: 50
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 48
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1065075177
 GameObject:
@@ -10835,10 +11046,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 105
 =======
   m_RootOrder: 108
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 106
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1076795165
 GameObject:
@@ -10936,10 +11151,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 93
 =======
   m_RootOrder: 96
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 94
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1116540808
 GameObject:
@@ -11037,10 +11256,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 99
 =======
   m_RootOrder: 102
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 100
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1126337402
 GameObject:
@@ -11139,10 +11362,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 66
 =======
   m_RootOrder: 69
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 67
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1133219153
 GameObject:
@@ -11339,10 +11566,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 53
 =======
   m_RootOrder: 56
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 54
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1151784020
 GameObject:
@@ -11441,10 +11672,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 75
 =======
   m_RootOrder: 78
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 76
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1153249770
 GameObject:
@@ -11641,10 +11876,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 103
 =======
   m_RootOrder: 106
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 104
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1155942878
 PrefabInstance:
@@ -11656,10 +11895,14 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1f4cd293555e39e4d8efb501d5362c07, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 3
 =======
       value: 5
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+      value: 4
+>>>>>>> parent of 5b8d73a (setting up blade traps)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1f4cd293555e39e4d8efb501d5362c07, type: 3}
       propertyPath: m_LocalScale.x
@@ -12035,10 +12278,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 119
 =======
   m_RootOrder: 122
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 120
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1180165762
 GameObject:
@@ -12137,10 +12384,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 118
 =======
   m_RootOrder: 121
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 119
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1186724879
 GameObject:
@@ -12239,10 +12490,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 77
 =======
   m_RootOrder: 80
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 78
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1193873225
 GameObject:
@@ -12439,10 +12694,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 13
 =======
   m_RootOrder: 16
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 14
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1226758742
 GameObject:
@@ -12933,10 +13192,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 17
 =======
   m_RootOrder: 20
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 18
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1274220156
 GameObject:
@@ -13035,10 +13298,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 78
 =======
   m_RootOrder: 81
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 79
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1298680810
 GameObject:
@@ -13234,10 +13501,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 94
 =======
   m_RootOrder: 97
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 95
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1333909163
 GameObject:
@@ -13336,10 +13607,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 29
 =======
   m_RootOrder: 32
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 30
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1340161439
 GameObject:
@@ -13634,10 +13909,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 14
 =======
   m_RootOrder: 17
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 15
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1385604588
 GameObject:
@@ -13932,10 +14211,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 26
 =======
   m_RootOrder: 29
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 27
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1417539573
 GameObject:
@@ -14103,10 +14386,14 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 135
 =======
   m_RootOrder: 138
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 136
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: -25, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -14210,10 +14497,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 50
 =======
   m_RootOrder: 53
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 51
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1419982276
 GameObject:
@@ -14312,10 +14603,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 67
 =======
   m_RootOrder: 70
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 68
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1428667045
 GameObject:
@@ -14512,10 +14807,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 127
 =======
   m_RootOrder: 130
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 128
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1437308978
 GameObject:
@@ -14614,10 +14913,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 48
 =======
   m_RootOrder: 51
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 49
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454712977
 GameObject:
@@ -15010,10 +15313,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 79
 =======
   m_RootOrder: 82
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 80
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1487790630
 GameObject:
@@ -15112,10 +15419,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 130
 =======
   m_RootOrder: 133
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 131
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1519124938
 GameObject:
@@ -15213,10 +15524,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 96
 =======
   m_RootOrder: 99
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 97
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1524605519
 GameObject:
@@ -15412,10 +15727,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 98
 =======
   m_RootOrder: 101
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 99
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1557261893
 GameObject:
@@ -15514,10 +15833,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 32
 =======
   m_RootOrder: 35
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 33
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1557870876
 GameObject:
@@ -15616,10 +15939,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 46
 =======
   m_RootOrder: 49
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 47
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1564643396
 GameObject:
@@ -15718,10 +16045,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 83
 =======
   m_RootOrder: 86
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 84
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1565289820
 GameObject:
@@ -15820,10 +16151,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 39
 =======
   m_RootOrder: 42
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 40
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1568237668
 GameObject:
@@ -16019,10 +16354,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 90
 =======
   m_RootOrder: 93
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 91
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1606296896
 GameObject:
@@ -16219,10 +16558,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 114
 =======
   m_RootOrder: 117
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 115
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1630417518
 PrefabInstance:
@@ -16234,10 +16577,14 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: f9004488767178846bd8f6bd217a29f0, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 6
 =======
       value: 8
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+      value: 7
+>>>>>>> parent of 5b8d73a (setting up blade traps)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f9004488767178846bd8f6bd217a29f0, type: 3}
       propertyPath: m_LocalScale.x
@@ -16609,10 +16956,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 126
 =======
   m_RootOrder: 129
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 127
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1670283424
 GameObject:
@@ -16710,10 +17061,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 101
 =======
   m_RootOrder: 104
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 102
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1673298171
 GameObject:
@@ -16910,10 +17265,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 123
 =======
   m_RootOrder: 126
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 124
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1710346318
 GameObject:
@@ -17012,10 +17371,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 49
 =======
   m_RootOrder: 52
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 50
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1710518035
 GameObject:
@@ -17114,10 +17477,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 102
 =======
   m_RootOrder: 105
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 103
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1713322575
 GameObject:
@@ -17314,10 +17681,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 59
 =======
   m_RootOrder: 62
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 60
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1725712634
 GameObject:
@@ -17514,10 +17885,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 16
 =======
   m_RootOrder: 19
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 17
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1742977075
 GameObject:
@@ -17616,10 +17991,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 62
 =======
   m_RootOrder: 65
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 63
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1750736219
 GameObject:
@@ -17914,10 +18293,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 72
 =======
   m_RootOrder: 75
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 73
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1757062173
 GameObject:
@@ -18212,10 +18595,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 9
 =======
   m_RootOrder: 12
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 10
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1794831481
 GameObject:
@@ -18314,10 +18701,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 85
 =======
   m_RootOrder: 88
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 86
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1797368764
 GameObject:
@@ -18416,10 +18807,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 76
 =======
   m_RootOrder: 79
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 77
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1801375124
 GameObject:
@@ -18517,10 +18912,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 89
 =======
   m_RootOrder: 92
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 90
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1806058590
 GameObject:
@@ -18897,10 +19296,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 95
 =======
   m_RootOrder: 98
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 96
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1911781407
 GameObject:
@@ -18999,10 +19402,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 10
 =======
   m_RootOrder: 13
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 11
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1913961365
 GameObject:
@@ -19334,10 +19741,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 51
 =======
   m_RootOrder: 54
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 52
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1926499331
 GameObject:
@@ -19436,10 +19847,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 120
 =======
   m_RootOrder: 123
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 121
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1934857884
 GameObject:
@@ -19538,10 +19953,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 33
 =======
   m_RootOrder: 36
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 34
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1937160163
 GameObject:
@@ -19738,10 +20157,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 108
 =======
   m_RootOrder: 111
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 109
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1972364069
 GameObject:
@@ -19840,10 +20263,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 128
 =======
   m_RootOrder: 131
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 129
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1981005752
 GameObject:
@@ -19942,10 +20369,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 37
 =======
   m_RootOrder: 40
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 38
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1993447176
 GameObject:
@@ -20044,10 +20475,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 19
 =======
   m_RootOrder: 22
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 20
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1995860877
 GameObject:
@@ -20146,10 +20581,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 124
 =======
   m_RootOrder: 127
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 125
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2003477894
 GameObject:
@@ -20443,10 +20882,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 97
 =======
   m_RootOrder: 100
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 98
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &2039401260
 GameObject:
@@ -20643,10 +21086,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 52
 =======
   m_RootOrder: 55
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 53
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2048553331
 GameObject:
@@ -20843,10 +21290,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 55
 =======
   m_RootOrder: 58
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 56
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2055337723
 GameObject:
@@ -21042,10 +21493,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 92
 =======
   m_RootOrder: 95
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 93
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &2070374065
 GameObject:
@@ -21144,10 +21599,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 21
 =======
   m_RootOrder: 24
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 22
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2080800677
 GameObject:
@@ -21344,10 +21803,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 125
 =======
   m_RootOrder: 128
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 126
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2100707506
 GameObject:
@@ -21544,10 +22007,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 64
 =======
   m_RootOrder: 67
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 65
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2110522597
 GameObject:
@@ -21646,10 +22113,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 109
 =======
   m_RootOrder: 112
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 110
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2110983759
 GameObject:
@@ -21846,10 +22317,14 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 116
 =======
   m_RootOrder: 119
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+  m_RootOrder: 117
+>>>>>>> parent of 5b8d73a (setting up blade traps)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2127652841
 GameObject:
@@ -22057,10 +22532,14 @@ PrefabInstance:
     - target: {fileID: 1458723419961011448, guid: c9ef9c5465c6ed6458601446b7de6b9f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 7
 =======
       value: 9
 >>>>>>> 5b8d73a713ca01460dc03c2805f5e68caf08664f
+=======
+      value: 8
+>>>>>>> parent of 5b8d73a (setting up blade traps)
       objectReference: {fileID: 0}
     - target: {fileID: 1458723419961011448, guid: c9ef9c5465c6ed6458601446b7de6b9f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22108,63 +22587,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9ef9c5465c6ed6458601446b7de6b9f, type: 3}
---- !u!1001 &1607677108030878787
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.647
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.48682976
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 13.99
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3826937788259845046, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4492291188598970636, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
-      propertyPath: m_Name
-      value: BladeTrapSmall
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 1a7569cb791f8794a9b17568fb97dec1, type: 3}
 --- !u!1001 &5075592021127589008
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22174,7 +22596,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4754281063816290878, guid: 88df70225679e1f4796251d33278c1b1, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4754281063816290878, guid: 88df70225679e1f4796251d33278c1b1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22231,7 +22653,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8165549487067514730, guid: 7ce6febb2653fb445bdcc8914256107f, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8165549487067514730, guid: 7ce6febb2653fb445bdcc8914256107f, type: 3}
       propertyPath: m_LocalPosition.x
