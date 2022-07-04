@@ -1,5 +1,84 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3070740923008000494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2404469602701040238}
+  - component: {fileID: 9024437973161265678}
+  - component: {fileID: 4497026940148570124}
+  - component: {fileID: 1085751264}
+  m_Layer: 6
+  m_Name: MoveCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2404469602701040238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3070740923008000494}
+  m_LocalRotation: {x: 0, y: 0, z: 0.08715578, w: 0.9961947}
+  m_LocalPosition: {x: 0.22, y: 0.04, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4754281063816290878}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10}
+--- !u!65 &9024437973161265678
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3070740923008000494}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 24.763857, z: 1.8747268}
+  m_Center: {x: -0.000009056387, y: 11.881913, z: 0.8159435}
+--- !u!54 &4497026940148570124
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3070740923008000494}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 3
+--- !u!114 &1085751264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3070740923008000494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c85f0b4aabd65424385bc99f35cdfaae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MoveForceX: 0
+  MoveForceZ: -2
+  MoveOnX: 0
+  MoveOnZ: 1
 --- !u!1 &5382164241771051140
 GameObject:
   m_ObjectHideFlags: 0
@@ -12,7 +91,7 @@ GameObject:
   - component: {fileID: 8526795022776790427}
   - component: {fileID: 5886685940960532817}
   - component: {fileID: 5075592021555512791}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Conveyor Belt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,14 +105,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5382164241771051140}
-  m_LocalRotation: {x: -0.4545195, y: -0.5416752, z: 0.4545195, w: 0.5416752}
+  m_LocalRotation: {x: -0.45451945, y: -0.54167527, z: 0.45451945, w: 0.54167527}
   m_LocalPosition: {x: 17.87, y: 0.11, z: 17.2}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 2}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 2404469602701040238}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 80}
 --- !u!33 &8526795022776790427
 MeshFilter:
   m_ObjectHideFlags: 0
