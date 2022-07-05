@@ -76,7 +76,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveForceX: 0
-  MoveForceZ: -2
+  MoveForceZ: -4
   MoveOnX: 0
   MoveOnZ: 1
 --- !u!1 &5382164241771051140

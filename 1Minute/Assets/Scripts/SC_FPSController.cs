@@ -25,11 +25,6 @@ public class SC_FPSController : MonoBehaviour
     float rotationX = 0;
     public bool isRunning;
 
-    //affect players
-
-    //other forces such as convenor belt
-    public float VelocityX;
-    public float VelocityZ;
 
     [HideInInspector]
     public bool canMove = true;
@@ -53,8 +48,6 @@ public class SC_FPSController : MonoBehaviour
         if (IsGamePaused == true) //paused game
         {
             canMove = false; //stop movement
-            VelocityX = 0;
-            VelocityZ = 0;
         }
         else
         {
@@ -86,7 +79,7 @@ public class SC_FPSController : MonoBehaviour
         float curSpeedX = canMove ? (isRunning ? runningSpeed : walkingSpeed) * Input.GetAxis("Vertical") : 0;
         float curSpeedY = canMove ? (isRunning ? runningSpeed : walkingSpeed) * Input.GetAxis("Horizontal") : 0;
         float movementDirectionY = moveDirection.y;
-        moveDirection = (forward * curSpeedX) + (right * curSpeedY) + (right * VelocityX) + (forward * VelocityZ);
+        moveDirection = (forward * curSpeedX) + (right * curSpeedY);
  
 
         if (Input.GetButton("Jump") && canMove && characterController.isGrounded)

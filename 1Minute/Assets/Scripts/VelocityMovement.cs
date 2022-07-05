@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class VelocityMovement : MonoBehaviour
 {
-    public float MoveForceX;
+    public float MoveForceX; //negative value to move left on x axis
 
-    public float MoveForceZ;
+    public float MoveForceZ; //negative value to move back on z axis
 
-    public bool MoveOnX; //move on x axis //negative is left, postive is right
+    public bool MoveOnX; //move on x axis 
 
     bool GamePaused;
 
-    public bool MoveOnZ; //move on Z axis //negative is backwards, postive is forwards
+    public bool MoveOnZ; //move on Z axis 
     // Start is called before the first frame update
     void Start()
     {
@@ -57,12 +57,12 @@ public class VelocityMovement : MonoBehaviour
     {
         if (MoveOnX == true)
         {
-            PlayerObj.GetComponent<SC_FPSController>().VelocityX = MoveForceX;
+            PlayerObj.transform.Translate(Vector3.right * MoveForceX * Time.deltaTime, Space.Self);
         }   
 
         if (MoveOnZ == true)
         {
-            PlayerObj.GetComponent<SC_FPSController>().VelocityZ = MoveForceZ;
+            PlayerObj.transform.Translate(Vector3.forward * MoveForceZ * Time.deltaTime, Space.Self);
         }
     }
 }
